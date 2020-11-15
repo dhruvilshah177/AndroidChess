@@ -1,0 +1,2 @@
+rootProject.name='AndroidChess46'
+include ':app'
